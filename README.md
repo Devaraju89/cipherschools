@@ -1,5 +1,10 @@
 # Low-Level Design (LLD) Practice Platform 🚀
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://temporary-agile-cobalt-8hwuiuc.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Devaraju89/cipherschools)
+
+> **Live Deployment URL**: [https://temporary-agile-cobalt-8hwuiuc.vercel.app](https://temporary-agile-cobalt-8hwuiuc.vercel.app)
+
 A focused practice platform built for software engineers to practice Low-Level Object-Oriented Design (LLD), submit multi-format solution artifacts, receive deterministic & LLM-assisted explainable feedback, and track design evolution over iterative attempts.
 
 ---
